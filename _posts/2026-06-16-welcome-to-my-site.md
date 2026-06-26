@@ -2,15 +2,15 @@
 title: "Welcome to My Site"
 ---
 
-This is my first Jekyll post on GitHub Pages.
+Some text information here...
 
-## Why I made this site
+## a header
 
 I wanted a simple static site that I can manage from GitHub.
 
-## Next steps
+## another header
 
-- Add more pages
-- Add more posts
+- Add more 
+- Add more more
 - Customize the theme
-- Add a custom domain later
+- Add other stuff
