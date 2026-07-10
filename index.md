@@ -4,7 +4,7 @@ title: Home
 
 # Welcome
 
-This is my starter GitHub Pages site built with Jekyll.
+Personal knowledgebase.
 
 ## What this site is for
 
